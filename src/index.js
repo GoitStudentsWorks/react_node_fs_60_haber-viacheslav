@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/yourpet-frontend">
+        <BrowserRouter basename="/react_node_fs_60_haber-viacheslav">
           <App />
         </BrowserRouter>
       </PersistGate>
