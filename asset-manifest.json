@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_60_haber-viacheslav/static/css/main.1cffe1f9.css",
-    "main.js": "/react_node_fs_60_haber-viacheslav/static/js/main.96375698.js",
+    "main.js": "/react_node_fs_60_haber-viacheslav/static/js/main.ea9deb8a.js",
     "static/js/461.4803b573.chunk.js": "/react_node_fs_60_haber-viacheslav/static/js/461.4803b573.chunk.js",
     "static/js/703.99f0693b.chunk.js": "/react_node_fs_60_haber-viacheslav/static/js/703.99f0693b.chunk.js",
     "static/js/661.8ff9d2d5.chunk.js": "/react_node_fs_60_haber-viacheslav/static/js/661.8ff9d2d5.chunk.js",
@@ -47,7 +47,7 @@
     "static/media/cat_sm@1x.webp": "/react_node_fs_60_haber-viacheslav/static/media/cat_sm@1x.bb819b3f6430a390bfba.webp",
     "index.html": "/react_node_fs_60_haber-viacheslav/index.html",
     "main.1cffe1f9.css.map": "/react_node_fs_60_haber-viacheslav/static/css/main.1cffe1f9.css.map",
-    "main.96375698.js.map": "/react_node_fs_60_haber-viacheslav/static/js/main.96375698.js.map",
+    "main.ea9deb8a.js.map": "/react_node_fs_60_haber-viacheslav/static/js/main.ea9deb8a.js.map",
     "461.4803b573.chunk.js.map": "/react_node_fs_60_haber-viacheslav/static/js/461.4803b573.chunk.js.map",
     "703.99f0693b.chunk.js.map": "/react_node_fs_60_haber-viacheslav/static/js/703.99f0693b.chunk.js.map",
     "661.8ff9d2d5.chunk.js.map": "/react_node_fs_60_haber-viacheslav/static/js/661.8ff9d2d5.chunk.js.map",
@@ -64,6 +64,6 @@
   },
   "entrypoints": [
     "static/css/main.1cffe1f9.css",
-    "static/js/main.96375698.js"
+    "static/js/main.ea9deb8a.js"
   ]
 }
